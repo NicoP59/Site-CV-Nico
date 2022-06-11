@@ -1,0 +1,128 @@
+
+
+@media (max-width: 1100px) {
+
+    /*HOME*/
+
+    .header-lien{
+        font-size: 15px;
+    }
+
+    /* A PROPOS*/
+
+    #a-propos{
+        flex-direction: column;
+        margin-top: 20px;
+    }
+
+    h1{
+        font-size: 55px;
+    }
+    
+    .article-a-propos{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .content-photo{
+        width: 100%;
+    }
+    
+    .photo-de-moi{
+        width: 250px;
+        height: 340px;
+    }
+
+    .block-arr-photo{
+        display: none;
+    }
+
+    .sous-titre-a-propos{
+        display: none;
+    }
+
+    .texte-a-propos{
+        font-size: 0.9em;
+        width: 90%;
+    }
+    
+    /*MES COMPETENCE*/
+
+    .comp div img{
+        width: 15vw;
+    }
+
+    /*MES FORMATION*/
+
+    #mes-formation article h2{
+        font-size: 1em;
+        width: 100%;
+        text-align: left;
+        padding: 0;
+    }
+
+    #mes-formation article{
+        font-size: 0.8em;
+    }
+
+    /*timeline*/
+
+    .row-timeline{
+        margin-top: -70px;
+        font-size: 0.6em;
+        margin-top: 10px;
+    }
+
+    .card-timeline h2{
+        padding: 5px;
+        font-size: 1em;
+    }
+
+    .card-texte{
+        padding: 5px;
+    }
+
+    /*CONTACT*/
+
+    #map{
+        height: 350px;
+    }
+
+    .info{
+        flex-direction: column;
+    }
+
+    .download-info{
+        display: none;
+    }
+
+    .mini-barre-contact{
+        margin: auto;
+    }
+
+
+    /* HAM BTN*/
+
+    #btn-ham{
+        top: 10px;
+        left: 10px;
+        width: 45px;
+        height: 45px;
+        font-size: 40px;
+    }
+
+    /*TOP MENU*/
+
+    #top-button{
+        left: 10px;
+    }
+
+    /* NAV */
+
+    nav ul li{
+        font-size: 30px;
+    }
+
+}

@@ -1,0 +1,34 @@
+
+
+@media (max-width: 370px) {
+
+    #a-propos, #competences,#mes-projets{
+        margin-top: 150px;
+    }
+
+    #timeline{
+        padding-top: 20px;
+    }
+
+    #timeline,#contact{
+        padding-bottom: 170px;
+    }
+
+    .mon-parcours{
+        margin-top: 150px;
+    }
+
+    h1{
+        font-size: 40px;
+        text-align: center;
+    }
+
+    .h2-section, #competence h2{
+        font-size: 15px;
+    }
+
+    nav ul li{
+        font-size: 25px;
+    }
+
+}

@@ -1,0 +1,19 @@
+.top-button{
+    width: 100px;
+    height: 100px;
+    font-size: 50px;
+    position: fixed;
+    top: 90%;
+    left: 95%;
+    color: var(--color-logo-texte);
+    cursor: pointer;
+    transition: 0.5s;
+    -webkit-transition: 0.5s;
+    -moz-transition: 0.5s;
+    -ms-transition: 0.5s;
+    -o-transition: 0.5s;
+}
+
+.top-button:hover{
+    color: var(--color-secondaire);
+}
